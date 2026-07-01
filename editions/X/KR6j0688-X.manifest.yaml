@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6j0688/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0688/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經臆說
+  identifiers:
+    krp: KR6j0688
+    cbeta: X12n0280
+    cbeta_old_id: X12n0280
+    authorityid: CA0002000
+    json_key: X0280
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X12/X12n0280.xml
+    old_id: X12n0280
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0688_000-X.yaml, hash: 'sha256:e6f9f5207a60a568b947c43146d8aba112fc23384167f405b9bf75a51e66d33a'}
+  - {seq: 1, filename: KR6j0688_001-X.yaml, hash: 'sha256:307a26953ead062e6f982d0face668656f2abe454bec7ed8bb58093a6576cfa0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0688_000-X.markers.yaml, hash: 'sha256:788109d510adaecbee32f2b1384ab886b6fd32cad81ffdb45c4a6209d802cf89'}
+  - {seq: 1, role: markers, filename: assets/KR6j0688_001-X.markers.yaml, hash: 'sha256:0fa2ad238e3dc1e73e8aa07b6b5374e588502b118c173fb821c965524e87cc52'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0688_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 280-A 大佛頂首楞嚴經臆說序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0688_X_000-mulu-2
+    span:
+    - front
+    - 353
+    - 353
+  label: 楞嚴經臆說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0688_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 34257
+  label: 大佛頂首楞嚴經臆說
+  type: juan
+  level: 1
+hash: sha256:368611b5eb4a3b215d92c55ae18f50cc5ffd2e6e4698ecbf84d41fb51cc03cf1
