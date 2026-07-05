@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0688_000.yaml, hash: 'sha256:54de5b514279f9038c221b011c6153ed381d8b035ae53335144055efa9ff2e9e'}
-  - {seq: 1, filename: KR6j0688_001.yaml, hash: 'sha256:5096665c571cdc537f5b0870ca274be6a3126876e08cd86fd5b2cb61e514aa37'}
+  - {seq: 0, filename: KR6j0688_000.yaml, hash: 'sha256:e6f9f5207a60a568b947c43146d8aba112fc23384167f405b9bf75a51e66d33a'}
+  - {seq: 1, filename: KR6j0688_001.yaml, hash: 'sha256:307a26953ead062e6f982d0face668656f2abe454bec7ed8bb58093a6576cfa0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0688_000.markers.yaml, hash: 'sha256:8326a7aca154d0f07a9f2e0cc89855c7b3f21dfdcb0aa516620a5b2f366501b8'}
-  - {seq: 1, role: markers, filename: assets/KR6j0688_001.markers.yaml, hash: 'sha256:b8468a708ef89bfc66f39af91816a377120252ce8cdf26d505f4d5051004c125'}
+  - {seq: 0, role: markers, filename: assets/KR6j0688_000.markers.yaml, hash: 'sha256:7a1c9764bf134db5e71d34e804756279c19e510d212b3c8ff912f7b0c917eb4b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0688_001.markers.yaml, hash: 'sha256:4a7f0c54420600260abde04f34c26e44e76387d1586ad9c6c24612907833daf7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 大佛頂首楞嚴經臆說
   type: juan
   level: 1
-hash: sha256:1d791724599b0dc806841ec0f7a4882b82e01d5f7186f78b24a51a101850c361
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:771e8bf36257ac48cf6b91344944c60f1721148a10e676d5a043003ddcc5ccc1
