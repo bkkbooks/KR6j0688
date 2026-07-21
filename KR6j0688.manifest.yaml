@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0688_000.yaml, hash: 'sha256:4ef627e0d0e6d2e8cd18c7a2e884ba76b4481b98915791ffb50560577a3c246b'}
+  - {seq: 0, filename: KR6j0688_000.yaml, hash: 'sha256:845e9383e15c98a7e3999e282662c86470c184f4705f6830c5be0fbee9927790'}
   - {seq: 1, filename: KR6j0688_001.yaml, hash: 'sha256:b0e8825ab4325d1680e51e38c97f277243ae09e369e71424ac717cf2c1a0dcd1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0688_000.markers.yaml, hash: 'sha256:c8556432698e77a62b9e34840ba958192c1581c8d4c272fbdf5c64739d531f22'}
+  - {seq: 0, role: markers, filename: assets/KR6j0688_000.markers.yaml, hash: 'sha256:c0c84b83513df0d71ab86947a138013213bbd910d0f9baae7345fd8ccb0bd5e3'}
   - {seq: 1, role: markers, filename: assets/KR6j0688_001.markers.yaml, hash: 'sha256:af8fae34cec59a7557a57339639514ab90d765b905d4a51beb062f8ad7c34c87'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0688_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 280-A 大佛頂首楞嚴經臆說序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0688_X_000-mulu-2
     span:
-    - front
+    - body
     - 353
     - 353
   label: 楞嚴經臆說
@@ -57,7 +57,7 @@ table_of_contents:
   label: 大佛頂首楞嚴經臆說
   type: juan
   level: 1
-hash: sha256:86380abd4f0e1be49d62a197969734a2516d5a639607f4068c98fe0d6e389770
+hash: sha256:0e55c2c94ef04236816af6658ab01c4ade7ef2bbbb3594f583e583f59241f9df
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
